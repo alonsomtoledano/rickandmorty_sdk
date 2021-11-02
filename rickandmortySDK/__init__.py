@@ -1,2 +1,0 @@
-from rickandmortySDK.rickandmortySDK import listAllCharacters
-from rickandmortySDK.rickandmortySDK import showCharacterInfo

@@ -1,4 +1,4 @@
-# rickandmortySDK
+# rickandmorty_SDK
 
 
 Acquisition of data from Rick and Morty characters through synchronous requests to the [Rick and Morty API](https://rickandmortyapi.com/)

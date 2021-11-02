@@ -9,7 +9,7 @@ classifiers = [
 ]
 
 setup(
-  name='rickandmortySDK',
+  name='rickandmorty_SDK',
   version='0.0.1',
   description='Rick and Morty information SDK',
   long_description=open('README.md').read() + '\n\n' + open('LICENSE.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
