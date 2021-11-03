@@ -10,11 +10,11 @@ classifiers = [
 
 setup(
   name='rickandmorty_SDK',
-  version='0.0.1',
+  version='0.0.2',
   description='Rick and Morty information SDK',
   long_description=open('README.md').read() + '\n\n' + open('LICENSE.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type = 'text/markdown',
-  url='https://github.com/AlonsoMartinToledano/rickandmortySDK',  
+  url='https://github.com/AlonsoMartinToledano/rickandmorty_sdk',  
   author='Alonso Martin-Toledano',
   author_email='alonsomtgm@gmail.com',
   license='MIT',
